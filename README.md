@@ -15,6 +15,7 @@ I currently live in Beijing,China
 - 💭 Ask me anything at **wechat:pyhanker**
 - 📧 pyhanker@gmail.com
 
+As a developer, I am able to collaborate closely with my team members and complete various development tasks assigned by my superiors. 🤝 However, compared to my other developer colleagues, I have a broader knowledge in the field of computer science. 🧠 This allows me to handle on-site customer issues at the client's location, quickly identify and resolve problems, and write scripts for analysis. 💻 This is an advantage I have over my other developer teammates, and I also possess excellent communication and customer-facing skills. 💬
 
 
 ## My certificate.
