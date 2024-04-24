@@ -13,6 +13,7 @@ I currently live in Beijing,China
 - 💻 I'm currently working as a fintech company, developing quantitative trading APIs and O&M monitoring of financial systems using Python language.
 - 💙 People or companies that do open source are great! 
 - 💭 Ask me anything at **wechat:pyhanker**
+- 📧 pyhanker@gmail.com
 
 
 
