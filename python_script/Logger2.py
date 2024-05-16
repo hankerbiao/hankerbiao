@@ -1,3 +1,13 @@
+"""
+Author: pyhanker
+Email: pyhanker@gmail.com
+Date: 2023-05-16
+
+
+This code is provided as-is, without any warranty.
+You can modify and use it for your own purposes.
+"""
+
 import os
 import time
 

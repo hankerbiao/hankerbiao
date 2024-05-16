@@ -1,3 +1,12 @@
+"""
+Author: pyhanker
+Email: pyhanker@gmail.com
+Date: 2024-01-16
+
+
+This code is provided as-is, without any warranty.
+You can modify and use it for your own purposes.
+"""
 import codecs
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad, pad
